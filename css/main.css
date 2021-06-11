@@ -1,0 +1,41 @@
+body{
+
+}
+.main{
+    width: 100%;
+
+    padding-top: 2rem;
+    max-width: 600px;
+}
+.navbar{
+    background-color: #0088ad !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.color-theme{
+    color: #0088ad;
+}
+.btn-100{
+    width: 100%;
+}
+.bg-theme{
+    background-color: #0088ad;
+    border: #0088ad;
+}
+button.bg-theme:hover{
+    background-color: #004e64;
+}
+
+.card{
+    margin-bottom: 0.5rem;
+}
+
+.delete_course{
+    cursor: pointer;
+}
+
+.added_course{
+    display: flex;
+    flex-direction: column-reverse;
+}
