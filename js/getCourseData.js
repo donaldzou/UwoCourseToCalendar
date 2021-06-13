@@ -1,5 +1,25 @@
 let data = $(".table.table-condensed.table-hover")
 
+let course_year = -1;
+let course_year_cookie = false;
+
+let co = document.cookie.split(';');
+co.forEach(function(elem){
+    if (elem.startsWith("year=")){
+        course_year = elem.split('=')[1];
+        console.log(course_year);
+        course_year_cookie = true;
+    }
+})
+if (!course_year_cookie){
+    document.cookie = 'year=-1'
+}
+course_year = parseInt(course_year);
+course_year++;
+document.cookie = 'year='+course_year;
+
+
+
 let session_code = {
     "0": {
         "start": {
@@ -162,8 +182,8 @@ for (let i = 0; i < data.length - 1; i++) {
             for (var q = 0; q < days.length; q++) {
                 if (days[q] !== "") {
                     console.log(course_session);
-                    let start = session_code[course_session]['start'][days[q]] + " " + time[0] + " " + timezone;
-                    let end = session_code[course_session]['start'][days[q]] + " " + time[1] + " " + timezone;
+                    let start = session_code[course_session]['start'][days[q]] + " " + time[0];
+                    let end = session_code[course_session]['start'][days[q]] + " " + time[1];
                     let byday = [];
                     let until = session_code[course_session]['end']
                     for (let c = 0; c < days.length; c++) {
@@ -224,13 +244,36 @@ function saveText(text, filename){
     a.setAttribute('download', filename);
     a.click()
 }
-if (!isEmpty){
-    saveText( JSON.stringify(course_dict), $("#Subject option:selected").val()+"_course.json" );
+
+
+if (isEmpty){
+    setTimeout(function(){
+        if (course_year != 5){
+            $("input[name=catalog_nbr_typed]").val(course_year);
+            $("#ClassInfoForm .btn-info[type=submit]").click()
+        }
+        else{
+            document.cookie = 'year=0'
+            $('#Subject option[hidden]').remove();
+            $("input[name=catalog_nbr_typed]").val(0);
+            $('#Subject option:selected').next().attr('selected', 'selected');
+            $("#ClassInfoForm .btn-info[type=submit]").click()
+        }
+    },1000);
+}else{
+    saveText( JSON.stringify(course_dict), $("#Subject option:selected").val()+"_"+(course_year-1)+"_lab.json" );
 
     setTimeout(function(){
-        $('#Subject option[hidden]').remove();
-        $('#Subject option:selected').next().attr('selected', 'selected');
-        $("#ClassInfoForm .btn-info[type=submit]").click()
-    },4000)
+        if (course_year != 5){
+            $("input[name=catalog_nbr_typed]").val(course_year);
+            $("#ClassInfoForm .btn-info[type=submit]").click()
+        }
+        else{
+            document.cookie = 'year=0'
+            $('#Subject option[hidden]').remove();
+            $("input[name=catalog_nbr_typed]").val(0);
+            $('#Subject option:selected').next().attr('selected', 'selected');
+            $("#ClassInfoForm .btn-info[type=submit]").click()
+        }
+    },2000);
 }
-

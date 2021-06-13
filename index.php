@@ -20,7 +20,7 @@
             <div class="container" style="display: block; max-width: 600px">
                 <div class="dropup">
                     <button class="btn dropdown-toggle btn-100 bg-theme add_cal" style="color: white" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false" disabled>
-                        Add 0 course to calendar
+                       <small>Add 0 class to calendar</small>
                     </button>
                     <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink" style="width: 100%">
                         <li><a class="dropdown-item" href="#" id="add_uwocal"><i class="fas fa-graduation-cap"></i> UWO myoffice</a></li>

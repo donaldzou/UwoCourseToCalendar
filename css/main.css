@@ -46,3 +46,14 @@ button.bg-theme:hover{
     display: flex;
     flex-direction: column-reverse;
 }
+
+
+.bg-LEC{
+    background-color: #0088ad;
+}
+.bg-TUT{
+    background-color: #ffc107;
+}
+.bg-LAB{
+    background-color: #6f42c1;
+}

@@ -20,7 +20,7 @@ search_btn.click(function (){
             let html =
                 '<div class="card animate__animated animate__bounceIn" id="'+course_num+'" style="width: 100%"><div class="card-body">' +
                 '   <div class="flex-row" style="display: flex">' +
-                '    <span class="badge bg-theme" style="margin-right: 0.5rem">LEC</span><h6 class="card-title" style="margin-bottom: 0">'+selected['subject']+' - '+selected['name']+'</h6>' +
+                '    <span class="badge bg-'+selected['type']+'" style="margin-right: 0.5rem">'+selected['type']+'</span><h6 class="card-title" style="margin-bottom: 0">'+selected['subject']+' - '+selected['name']+'</h6>' +
                 '    <a class="card-link text-danger delete_course" style="margin-left: auto"><i class="bi bi-x-circle"></i></a>' +
                 '   </div>' +
                 '   <small>Course Num: '+course_num+'</small>' +
@@ -43,10 +43,10 @@ search_btn.click(function (){
             $("#course_number").val("")
             check_added()
         }else {
-            alert("Course already added");
+            alert("Course / Lab / Tutorial already added");
         }
     }else{
-        alert("Course number does not exist");
+        alert("Class number does not exist");
     }
 });
 
@@ -59,7 +59,7 @@ $(".added_course").on("click",".delete_course", function (){
 })
 
 function check_added(){
-    $(".add_cal").html("Add "+Object.keys(selected_course).length+" course to calendar")
+    $(".add_cal").html("Add "+Object.keys(selected_course).length+" class to calendar")
    if (Object.keys(selected_course).length === 0){
        $(".add_cal").attr("disabled","disabled")
    }else{
