@@ -26,6 +26,9 @@ This option is for user who use the Outlook app on their Windows, you can choose
 #### Google Calendar
 This option is for Google Calendar user, it is the most straightforward one, the easiest to setup.
 
+### For international student
+I've configured all calendar to be London Ontario time, so your calendar app should be able to adjust to your local timezone. But notice some online platform like the UWO myoffice / outlook.com / Google Calendar might have a default timezone that is not your local timezone, you need to adjust that.
+
 ### For advance user >_
 The calendar can be subscribe by any `webcal://` protocal supported calendar application. The link can simply generate by adding your class number, each number is separated by a underscore `_`:
 
