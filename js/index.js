@@ -59,20 +59,40 @@ $(".added_course").on("click",".delete_course", function (){
 })
 
 function check_added(){
+    $(".add_cal").html("Add "+Object.keys(selected_course).length+" course to calendar")
    if (Object.keys(selected_course).length === 0){
-       $("#add_cal").attr("disabled","disabled")
+       $(".add_cal").attr("disabled","disabled")
    }else{
-       $("#add_cal").removeAttr("disabled")
+       $(".add_cal").removeAttr("disabled")
    }
 }
+function get_id(){
+    return Object.keys(selected_course).join("_")
+}
 
-$("#add_cal").click(function (){
+$("#add_webcal").click(function (){
     if (location.port != ""){
         // Local testing
-        window.open("webcal://"+location.hostname+":"+location.port+"/UwoCourseToCal/cal.php?id="+Object.keys(selected_course).join(','))
+        window.open("webcal://"+location.hostname+":"+location.port+"/UwoCourseToCal/cal.php?id="+get_id())
     }else{
-        window.open("webcal://"+location.hostname+"/cal.php?id="+Object.keys(selected_course).join(','))
+        window.open("webcal://"+location.hostname+"/addCal/"+get_id())
     }
+});
 
+$("#add_outlookcal").click(function (){
+    let url = "https://"+location.hostname+"/addCal/"+get_id()
+    window.open("https://outlook.live.com?path=/calendar/action/subscribe&url="+url);
+});
 
+$("#add_uwocal").click(function (){
+    let url = "https://"+location.hostname+"/addCal/"+get_id()
+    window.open("https://outlook.office.com?path=/calendar/action/subscribe&url="+url);
+});
+
+$("#add_googlecal").click(function (){
+    let url = "webcal://"+location.hostname+"/addCal/"+get_id();
+    window.open("https://calendar.google.com/calendar/u/0/r?cid="+url);
 })
+
+var class_nbr_help = document.getElementById('class_nbr_help')
+var tooltip = new bootstrap.Tooltip(class_nbr_help)

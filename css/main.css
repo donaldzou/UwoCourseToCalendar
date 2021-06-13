@@ -10,6 +10,13 @@ body{
 .navbar{
     background-color: #0088ad !important;
 }
+
+.navbar.fixed-bottom{
+    background-color: white !important;
+    background: rgb(255,255,255) !important;
+    background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%) !important;
+}
+
 .navbar-brand{
     color: white !important;
 }

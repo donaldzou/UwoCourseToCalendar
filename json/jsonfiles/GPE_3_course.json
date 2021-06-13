@@ -1,0 +1,1 @@
+{"12024":{"subject":"GPE","name":"3384A","type":"LEC","schedule":[{"start":"2021/9/9 8:30 AM","end":"2021/9/9 9:30 AM","rrule":{"byday":["TH"],"until":"2021/12/8","freq":"WEEKLY"}},{"start":"2021/9/10 8:30 AM","end":"2021/9/10 10:30 AM","rrule":{"byday":["FR"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"ACEB-1410","instructor":""}}

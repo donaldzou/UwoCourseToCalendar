@@ -12,7 +12,15 @@ for i in jsonfiles:
         with open('jsonfiles/'+i) as json_file:
             print(i)
             data = json.load(json_file)
-            total = merge(total, data)
+            for key in data.keys():
+                if key in total.keys():
+                    print("Existed - "+key)
+                    exit()
+                total[key] = data[key]
+            # total = merge(total, data)
 
 f = open('merge.json', 'w+')
 json.dump(total, f)
+print("-------")
+print("Done merging to merge.json")
+print("-------")

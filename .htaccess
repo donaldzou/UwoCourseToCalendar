@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule addCal/(.*) cal.php?id=$1

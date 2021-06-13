@@ -1,0 +1,1 @@
+{"8172":{"subject":"PPE","name":"2200F","type":"LEC","schedule":[{"start":"2021/9/13 11:30 AM","end":"2021/9/13 1:30 PM","rrule":{"byday":["MO"],"until":"2021/12/8","freq":"WEEKLY"}},{"start":"2021/9/8 12:30 PM","end":"2021/9/8 1:30 PM","rrule":{"byday":["WE"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"AHB-1B06","instructor":"A. Slivinski<br>D. Klimchuk<br>C. Jones<br>"}}

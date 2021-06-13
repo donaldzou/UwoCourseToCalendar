@@ -1,0 +1,1 @@
+{"9692":{"subject":"ASTRONOM","name":"3302A","type":"LEC","schedule":[{"start":"2021/9/14 9:30 AM","end":"2021/9/14 10:30 AM","rrule":{"byday":["TU"],"until":"2021/12/8","freq":"WEEKLY"}},{"start":"2021/9/9 9:30 AM","end":"2021/9/9 11:30 AM","rrule":{"byday":["TH"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"PAB-34","instructor":"E. Peeters<br>"}}
