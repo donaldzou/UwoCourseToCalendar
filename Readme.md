@@ -1,6 +1,8 @@
 # UWO Course to Calendar
 *aka. UWOCourseToCal*
 
+Access: https://uwo-to-cal.tk
+
 ## About
 This is a project to solve this problem I always have since I came to UWO, is that neither DraftMySchedule or Student Center provides a way to add the course schedule right into my calendar. Therefore I created this webcal server, that students can add all their courses, labs and tutorial, and it will import to their calendar. I will keep updating the calendar data till 2021 fall semester, since DraftMySchedule said the course timetable could change.
 
