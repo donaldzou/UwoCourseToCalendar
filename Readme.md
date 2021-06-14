@@ -6,6 +6,11 @@ This is a project to solve this problem I always have since I came to UWO, is th
 
 **This project is not affiliate with any department of Western University. Is 100% non-commercial personal project.**
 
+## Course Data:
+Latest Update: 2021/06/12
+
+Available Course: 2021-2022 Fall & Winter
+
 ## How to use it
 You can go to <a href="https://uwo-to-cal.tk">https://uwo-to-cal.tk </a> to add all your courses,labs and tutorial, and click the **Add** button on the bottom of your screen and choose the calendar you're using. Continue to read the next part on which calendar you should choose if you're not sure.
 

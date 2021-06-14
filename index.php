@@ -9,11 +9,34 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
         <script src="https://kit.fontawesome.com/811c1ec641.js" crossorigin="anonymous"></script>
+
+        <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+        <link rel="manifest" href="./favicon/site.webmanifest">
+        <link rel="mask-icon" href="./favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="./favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#00aba9">
+        <meta name="msapplication-config" content="./favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
     </head>
     <body>
-        <nav class="navbar navbar-light bg-light sticky-top">
+        <nav class="navbar navbar-light bg-light sticky-top navbar-expand-lg">
             <div class="container-fluid">
-                <span class="navbar-brand mb-0 h3">UWO Course to Calendar</span>
+                <a class="navbar-brand" href="./">UWO Course to Calendar</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="./">Add Course</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="about.php">Help & About</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </nav>
         <nav class="navbar fixed-bottom navbar-light bg-light">
@@ -44,22 +67,6 @@
                     </div>
                 </div>
                 <hr>
-
-<!--                <div class="row">-->
-<!--                    <div class="col-sm" style="display: flex; align-items: flex-end;">-->
-<!--                        <h6>Add to:</h6>-->
-<!--                    </div>-->
-<!--                    <div class="col-sm">-->
-<!--                        <button class="btn btn-primary btn-100 bg-theme add_cal" id="add_webcal" disabled><i class="fab fa-apple"></i> Apple Calendar</button>-->
-<!--                    </div>-->
-<!--                    <div class="col-sm">-->
-<!--                        <button class="btn btn-primary btn-100 bg-theme add_cal" id="add_outlookcal" disabled><i class="fab fa-microsoft"></i> Outlook.com</button>-->
-<!--                    </div>-->
-<!--                    <div class="col-sm">-->
-<!--                        <button class="btn btn-primary btn-100 bg-theme add_cal" id="add_365cal" disabled><i class="fab fa-microsoft"></i> UWO Office</button>-->
-<!--                    </div>-->
-<!--                </div>-->
-
             </div>
 
             <div class="added_course">
@@ -71,4 +78,13 @@
     <script src="js/ics.deps.min.js"></script>
     <script src="js/ics.js"></script>
     <script src="js/index.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C843FCZ4NQ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-C843FCZ4NQ');
+    </script>
 </html>

@@ -57,3 +57,7 @@ button.bg-theme:hover{
 .bg-LAB{
     background-color: #6f42c1;
 }
+
+.nav-link{
+    color: white !important;
+}
