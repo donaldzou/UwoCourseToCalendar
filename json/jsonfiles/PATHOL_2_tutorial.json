@@ -1,1 +1,1 @@
-{"3183":{"subject":"PATHOL","name":"2420A","type":"TUT","schedule":[{"start":"2021/9/10 12:00 PM","end":"2021/9/10 1:00 PM","rrule":{"byday":["FR"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"WSC-55","instructor":"E. Goebel<br>"}}
+{"12561":{"subject":"PATHOL","name":"2420A","type":"TUT","schedule":[{"start":"2021/9/10 12:00 PM","end":"2021/9/10 1:00 PM","rrule":{"byday":["FR"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"","instructor":"P. Plantinga<br>E. Goebel<br>"}}

@@ -1,1 +1,1 @@
-{"11642":{"subject":"MCS","name":"2620F","type":"TUT","schedule":[{"start":"2021/9/9 4:30 PM","end":"2021/9/9 5:30 PM","rrule":{"byday":["TH"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"LWH-2210","instructor":""}}
+{"11642":{"subject":"MCS","name":"2620F","type":"TUT","schedule":[{"start":"2021/9/9 3:30 PM","end":"2021/9/9 4:30 PM","rrule":{"byday":["TH"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"UC-3220","instructor":"B. Romero Ferron<br>"}}

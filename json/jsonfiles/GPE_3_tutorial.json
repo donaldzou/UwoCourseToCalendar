@@ -1,1 +1,1 @@
-{"12025":{"subject":"GPE","name":"3384A","type":"TUT","schedule":[{"start":"2021/9/8 5:30 PM","end":"2021/9/8 6:30 PM","rrule":{"byday":["WE"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"ACEB-1415","instructor":""}}
+{"12025":{"subject":"GPE","name":"3384A","type":"TUT","schedule":[{"start":"2021/9/8 5:30 PM","end":"2021/9/8 6:30 PM","rrule":{"byday":["WE"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"ACEB-1415","instructor":"M. Ray<br>D. Karamanev<br>"}}

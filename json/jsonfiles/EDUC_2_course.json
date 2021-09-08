@@ -1,1 +1,1 @@
-{"11698":{"subject":"EDUC","name":"2200E","type":"LEC","schedule":[{"start":"2021/9/8 6:30 PM","end":"2021/9/8 9:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"","instructor":""}}
+{"11698":{"subject":"EDUC","name":"2200E","type":"LEC","schedule":[{"start":"2021/9/8 6:30 PM","end":"2021/9/8 9:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"FEB-2051","instructor":"M. Lawrence<br>"}}

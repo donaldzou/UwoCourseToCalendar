@@ -1,1 +1,1 @@
-{"10749":{"subject":"MEDIEVAL","name":"3022F","type":"LEC","schedule":[{"start":"2021/9/14 1:30 PM","end":"2021/9/14 4:30 PM","rrule":{"byday":["TU"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"UC-1225","instructor":"J. Grier<br>"}}
+{"10749":{"subject":"MEDIEVAL","name":"3022F","type":"LEC","schedule":[{"start":"2021/9/8 1:30 PM","end":"2021/9/8 4:30 PM","rrule":{"byday":["WE"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"STVH-3166","instructor":"J. Grier<br>"}}
