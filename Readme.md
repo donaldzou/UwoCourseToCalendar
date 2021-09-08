@@ -9,7 +9,7 @@ This is a project to solve this problem I always have since I came to UWO, is th
 **This project is not affiliate with any department of Western University. Is 100% non-commercial personal project.**
 
 ## Course Data:
-Latest Update: 2021/06/12
+Latest Update: 2021/08/08
 
 Available Course: 2021-2022 Fall & Winter
 
