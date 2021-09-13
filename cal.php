@@ -12,7 +12,7 @@ $calendarHead = [
 ];
 $calendarTimezone = 'TZID=America/Toronto';
 $calendarEnd = 'END:VCALENDAR';
-$read_json = file_get_contents("json/t.json");
+$read_json = file_get_contents("json/merge.json");
 $course = json_decode($read_json, true);
 $id_array = explode('_', $_GET['id']);
 function icalUTCtimestamp($timestamp){
