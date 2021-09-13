@@ -1,1 +1,1 @@
-{"3826":{"subject":"LINGUIST","name":"1028B","type":"LEC","schedule":[{"start":"2022/1/3 2:30 PM","end":"2022/1/3 4:30 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"AHB-1B04","instructor":"V. Kharytonava<br>"}}
+{"3826":{"subject":"LINGUIST","name":"1028B","type":"LEC","schedule":[{"start":"2022/1/3 2:30 PM","end":"2022/1/3 4:30 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"},"location":"AHB-1B04"}],"instructor":"V. Kharytonava"}}

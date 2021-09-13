@@ -1,1 +1,1 @@
-{"12362":{"subject":"COMPLIT","name":"2150B","type":"TUT","schedule":[{"start":"2022/1/6 7:30 PM","end":"2022/1/6 8:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"LWH-2205","instructor":""}}
+{"12362":{"subject":"COMPLIT","name":"2150B","type":"TUT","schedule":[{"start":"2022/1/6 7:30 PM","end":"2022/1/6 8:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"},"location":"LWH-2205"}],"instructor":""}}

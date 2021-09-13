@@ -1,1 +1,1 @@
-{"11641":{"subject":"MCS","name":"2620F","type":"LEC","schedule":[{"start":"2021/9/8 2:30 PM","end":"2021/9/8 4:30 PM","rrule":{"byday":["WE"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"SSC-3018","instructor":"B. Romero Ferron<br>"}}
+{"11641":{"subject":"MCS","name":"2620F","type":"LEC","schedule":[{"start":"2021/9/8 2:30 PM","end":"2021/9/8 4:30 PM","rrule":{"byday":["WE"],"until":"2021/12/8","freq":"WEEKLY"},"location":"SSC-3018"}],"instructor":"B. Romero Ferron"}}

@@ -1,1 +1,1 @@
-{"6920":{"subject":"BIOCHEM","name":"4415B","type":"TUT","schedule":[{"start":"2022/1/7 11:30 AM","end":"2022/1/7 12:30 PM","rrule":{"byday":["FR"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"B&amp;GS-1056","instructor":"P. O'Donoghue<br>"}}
+{"6920":{"subject":"BIOCHEM","name":"4415B","type":"TUT","schedule":[{"start":"2022/1/7 11:30 AM","end":"2022/1/7 12:30 PM","rrule":{"byday":["FR"],"until":"2022/4/1","freq":"WEEKLY"},"location":"B&amp;GS-1056"}],"instructor":"P. O'Donoghue"}}

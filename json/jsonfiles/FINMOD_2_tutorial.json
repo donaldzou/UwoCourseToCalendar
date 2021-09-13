@@ -1,1 +1,1 @@
-{"6134":{"subject":"FINMOD","name":"2557B","type":"TUT","schedule":[{"start":"2022/1/6 4:30 PM","end":"2022/1/6 5:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"TC-141","instructor":""}}
+{"6134":{"subject":"FINMOD","name":"2557B","type":"TUT","schedule":[{"start":"2022/1/6 4:30 PM","end":"2022/1/6 5:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"},"location":"TC-141"}],"instructor":""}}

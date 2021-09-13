@@ -1,1 +1,54 @@
-{"3803":{"subject":"APPLMATH","name":"4999Z","type":"LEC","schedule":[{"start":"2021/9/14 12:30 PM","end":"2021/9/14 1:30 PM","rrule":{"byday":["TU"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"","instructor":"G. Wild<br>"},"9783":{"subject":"APPLMATH","name":"4615F","type":"LEC","schedule":[{"start":"2021/9/14 1:30 PM","end":"2021/9/14 3:30 PM","rrule":{"byday":["TU"],"until":"2021/12/8","freq":"WEEKLY"}},{"start":"2021/9/9 1:30 PM","end":"2021/9/9 2:30 PM","rrule":{"byday":["TH"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"HSB-35","instructor":"D. Jeffrey<br>"}}
+{
+    "3803": {
+        "subject": "APPLMATH",
+        "name": "4999Z",
+        "type": "LEC",
+        "schedule": [
+            {
+                "start": "2021/9/14 12:30 PM",
+                "end": "2021/9/14 1:30 PM",
+                "rrule": {
+                    "byday": [
+                        "TU"
+                    ],
+                    "until": "2022/4/1",
+                    "freq": "WEEKLY"
+                },
+                "location": ""
+            }
+        ],
+        "instructor": "G. Wild"
+    },
+    "9783": {
+        "subject": "APPLMATH",
+        "name": "4615F",
+        "type": "LEC",
+        "schedule": [
+            {
+                "start": "2021/9/14 1:30 PM",
+                "end": "2021/9/14 3:30 PM",
+                "rrule": {
+                    "byday": [
+                        "TU"
+                    ],
+                    "until": "2021/12/8",
+                    "freq": "WEEKLY"
+                },
+                "location": "HSB-35"
+            },
+            {
+                "start": "2021/9/9 1:30 PM",
+                "end": "2021/9/9 2:30 PM",
+                "rrule": {
+                    "byday": [
+                        "TH"
+                    ],
+                    "until": "2021/12/8",
+                    "freq": "WEEKLY"
+                },
+                "location": "HSB-13"
+            }
+        ],
+        "instructor": "D. Jeffrey"
+    }
+}

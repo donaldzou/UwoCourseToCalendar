@@ -1,1 +1,1 @@
-{"9122":{"subject":"ASTRONOM","name":"2801A","type":"TUT","schedule":[{"start":"2021/9/9 1:30 PM","end":"2021/9/9 2:30 PM","rrule":{"byday":["TH"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"PAB-148","instructor":""}}
+{"9122":{"subject":"ASTRONOM","name":"2801A","type":"TUT","schedule":[{"start":"2021/9/9 1:30 PM","end":"2021/9/9 2:30 PM","rrule":{"byday":["TH"],"until":"2021/12/8","freq":"WEEKLY"},"location":"PAB-148"}],"instructor":""}}

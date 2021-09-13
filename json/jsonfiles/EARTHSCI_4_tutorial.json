@@ -1,1 +1,1 @@
-{"12452":{"subject":"EARTHSCI","name":"4432B","type":"TUT","schedule":[{"start":"2022/1/5 1:30 PM","end":"2022/1/5 2:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"MC-17","instructor":"R. Linnen<br>"}}
+{"12452":{"subject":"EARTHSCI","name":"4432B","type":"TUT","schedule":[{"start":"2022/1/5 1:30 PM","end":"2022/1/5 2:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"},"location":"MC-17"}],"instructor":"R. Linnen"}}

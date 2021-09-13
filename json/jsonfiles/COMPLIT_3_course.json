@@ -1,1 +1,1 @@
-{"11315":{"subject":"COMPLIT","name":"3340G","type":"LEC","schedule":[{"start":"2022/1/3 12:30 PM","end":"2022/1/3 2:30 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"UCC-63","instructor":"M. Adamson<br>"}}
+{"11315":{"subject":"COMPLIT","name":"3340G","type":"LEC","schedule":[{"start":"2022/1/3 12:30 PM","end":"2022/1/3 2:30 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"},"location":"UCC-63"}],"instructor":"M. Adamson"}}

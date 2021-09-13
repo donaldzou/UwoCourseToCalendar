@@ -12,7 +12,7 @@ $calendarHead = [
 ];
 $calendarTimezone = 'TZID=America/Toronto';
 $calendarEnd = 'END:VCALENDAR';
-$read_json = file_get_contents("json/merge.json");
+$read_json = file_get_contents("json/t.json");
 $course = json_decode($read_json, true);
 $id_array = explode('_', $_GET['id']);
 function icalUTCtimestamp($timestamp){
@@ -30,9 +30,9 @@ foreach ($calendarHead as $e){
 foreach ($id_array as $id){
     $name = $course[$id]['name'].' '.$course[$id]['type'].' - '.$course[$id]['subject'];
     $description = 'Instructor: '.$course[$id]['instructor'];
-    $location = $course[$id]['location'];
     $all_day = false;
     for ($i = 0; $i < count($course[$id]['schedule']); $i++){
+        $location = $course[$id]['schedule'][$i]['location'];
         if ($course[$id]['schedule'][$i]['start'] !== $course[$id]['schedule'][$i]['end']){
             $start_date = icalUTCtimestamp(strtotime($course[$id]['schedule'][$i]['start']));
             $end_date = icalUTCtimestamp(strtotime($course[$id]['schedule'][$i]['end']));
@@ -41,13 +41,6 @@ foreach ($id_array as $id){
             $start_date = date("Ymd",strtotime($course[$id]['schedule'][$i]['start']));
             $end_date = date("Ymd",strtotime($course[$id]['schedule'][$i]['end']));
         }
-
-
-
-
-
-
-
         $until_date = icalUTCtimestamp(strtotime($course[$id]['schedule'][$i]['rrule']['until'].' 23:59:59'));
         $RRULE = 'FREQ='.$course[$id]['schedule'][$i]['rrule']['freq'].
             ';UNTIL='.$until_date.

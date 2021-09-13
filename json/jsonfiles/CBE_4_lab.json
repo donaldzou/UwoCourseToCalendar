@@ -1,1 +1,1 @@
-{"11897":{"subject":"CBE","name":"4411A","type":"LAB","schedule":[{"start":"2021/9/10 10:30 AM","end":"2021/9/10 1:30 PM","rrule":{"byday":["FR"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"SEB-1079","instructor":"L. Briens<br>"}}
+{"11897":{"subject":"CBE","name":"4411A","type":"LAB","schedule":[{"start":"2021/9/10 10:30 AM","end":"2021/9/10 1:30 PM","rrule":{"byday":["FR"],"until":"2021/12/8","freq":"WEEKLY"},"location":"SEB-1079"}],"instructor":"L. Briens"}}

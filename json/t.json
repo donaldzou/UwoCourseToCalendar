@@ -1,0 +1,34 @@
+{
+    "3489": {
+        "subject": "COMPSCI",
+        "name": "3342B",
+        "type": "LEC",
+        "schedule": [
+            {
+                "start": "2022/1/5 3:30 PM",
+                "end": "2022/1/5 5:30 PM",
+                "rrule": {
+                    "byday": [
+                        "WE"
+                    ],
+                    "until": "2022/4/1",
+                    "freq": "WEEKLY"
+                },
+                "location": "MC-110"
+            },
+            {
+                "start": "2022/1/6 10:30 AM",
+                "end": "2022/1/6 11:30 AM",
+                "rrule": {
+                    "byday": [
+                        "TH"
+                    ],
+                    "until": "2022/4/1",
+                    "freq": "WEEKLY"
+                },
+                "location": "NSC-1"
+            }
+        ],
+        "instructor": "L. Ilie<br>"
+    }
+}

@@ -1,1 +1,1 @@
-{"12404":{"subject":"IE","name":"4499","type":"TUT","schedule":[{"start":"2021/9/9 4:30 PM","end":"2021/9/9 6:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"SEB-3109","instructor":""}}
+{"12404":{"subject":"IE","name":"4499","type":"TUT","schedule":[{"start":"2021/9/9 4:30 PM","end":"2021/9/9 6:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"},"location":"SEB-3109"}],"instructor":""}}

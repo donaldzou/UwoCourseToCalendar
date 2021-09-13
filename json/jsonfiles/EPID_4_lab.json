@@ -1,1 +1,1 @@
-{"7987":{"subject":"EPID","name":"4615B","type":"LAB","schedule":[{"start":"2022/1/6 11:30 AM","end":"2022/1/6 12:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"NCB-293","instructor":"S. Sarma<br>"}}
+{"7987":{"subject":"EPID","name":"4615B","type":"LAB","schedule":[{"start":"2022/1/6 11:30 AM","end":"2022/1/6 12:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"},"location":"NCB-293"}],"instructor":"S. Sarma"}}

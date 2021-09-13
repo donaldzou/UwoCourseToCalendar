@@ -1,1 +1,1 @@
-{"12480":{"subject":"DATASCI","name":"2100A","type":"TUT","schedule":[{"start":"2021/9/14 1:30 PM","end":"2021/9/14 2:30 PM","rrule":{"byday":["TU"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"UCC-41","instructor":"L. Muller<br>"}}
+{"12480":{"subject":"DATASCI","name":"2100A","type":"TUT","schedule":[{"start":"2021/9/14 1:30 PM","end":"2021/9/14 2:30 PM","rrule":{"byday":["TU"],"until":"2021/12/8","freq":"WEEKLY"},"location":"UCC-41"}],"instructor":"L. Muller"}}

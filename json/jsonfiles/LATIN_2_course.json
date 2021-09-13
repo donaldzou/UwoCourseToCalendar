@@ -1,1 +1,1 @@
-{"4025":{"subject":"LATIN","name":"2000","type":"LEC","schedule":[{"start":"2021/9/13 3:30 PM","end":"2021/9/13 4:30 PM","rrule":{"byday":["MO","WE","FR"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"STVH-2166","instructor":"K. Gervais<br>"}}
+{"4025":{"subject":"LATIN","name":"2000","type":"LEC","schedule":[{"start":"2021/9/13 3:30 PM","end":"2021/9/13 4:30 PM","rrule":{"byday":["MO","WE","FR"],"until":"2022/4/1","freq":"WEEKLY"},"location":"STVH-2166"}],"instructor":"K. Gervais"}}

@@ -1,1 +1,1 @@
-{"10672":{"subject":"PATHOL","name":"4425B","type":"LAB","schedule":[{"start":"2022/1/6 2:30 PM","end":"2022/1/6 4:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"DSB-2010","instructor":"D. Hamilton<br>C. Pocrnich<br>M. Sandig<br>L. Zhao<br>"}}
+{"10672":{"subject":"PATHOL","name":"4425B","type":"LAB","schedule":[{"start":"2022/1/6 2:30 PM","end":"2022/1/6 4:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"},"location":"DSB-2010"}],"instructor":"D. HamiltonC. PocrnichM. SandigL. Zhao"}}

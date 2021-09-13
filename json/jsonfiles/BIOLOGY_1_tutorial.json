@@ -1,1 +1,1 @@
-{"3869":{"subject":"BIOLOGY","name":"1290B","type":"TUT","schedule":[{"start":"2022/1/4 2:30 PM","end":"2022/1/4 3:30 PM","rrule":{"byday":["TU"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"NSC-1","instructor":""}}
+{"3869":{"subject":"BIOLOGY","name":"1290B","type":"TUT","schedule":[{"start":"2022/1/4 2:30 PM","end":"2022/1/4 3:30 PM","rrule":{"byday":["TU"],"until":"2022/4/1","freq":"WEEKLY"},"location":"NSC-1"}],"instructor":""}}

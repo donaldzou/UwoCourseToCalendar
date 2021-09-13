@@ -1,1 +1,1 @@
-{"12435":{"subject":"MBI","name":"3100A","type":"LEC","schedule":[{"start":"2021/9/8 2:30 PM","end":"2021/9/8 4:30 PM","rrule":{"byday":["WE"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"","instructor":"A. Poon<br>"}}
+{"12435":{"subject":"MBI","name":"3100A","type":"LEC","schedule":[{"start":"2021/9/8 2:30 PM","end":"2021/9/8 4:30 PM","rrule":{"byday":["WE"],"until":"2021/12/8","freq":"WEEKLY"},"location":""}],"instructor":"A. Poon"}}

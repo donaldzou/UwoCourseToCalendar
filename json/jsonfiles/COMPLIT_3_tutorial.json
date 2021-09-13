@@ -1,1 +1,1 @@
-{"11316":{"subject":"COMPLIT","name":"3340G","type":"TUT","schedule":[{"start":"2022/1/5 12:30 PM","end":"2022/1/5 1:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"STVH-3166","instructor":""}}
+{"11316":{"subject":"COMPLIT","name":"3340G","type":"TUT","schedule":[{"start":"2022/1/5 12:30 PM","end":"2022/1/5 1:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"},"location":"STVH-3166"}],"instructor":""}}

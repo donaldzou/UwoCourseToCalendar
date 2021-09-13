@@ -1,1 +1,1 @@
-{"11335":{"subject":"GERMAN","name":"4500G","type":"LEC","schedule":[{"start":"2022/1/3 6:30 PM","end":"2022/1/3 9:30 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"STVH-1155","instructor":"M. Adamson<br>"}}
+{"11335":{"subject":"GERMAN","name":"4500G","type":"LEC","schedule":[{"start":"2022/1/3 6:30 PM","end":"2022/1/3 9:30 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"},"location":"STVH-1155"}],"instructor":"M. Adamson"}}

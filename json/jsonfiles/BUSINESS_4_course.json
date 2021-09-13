@@ -1,1 +1,1 @@
-{"10759":{"subject":"BUSINESS","name":"4567B","type":"LEC","schedule":[{"start":"2022/1/3","end":"2022/1/3","rrule":{"byday":["MO","TU","WE","TH","FR"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"","instructor":"C. Grace<br>"}}
+{"10759":{"subject":"BUSINESS","name":"4567B","type":"LEC","schedule":[{"start":"2022/1/3","end":"2022/1/3","rrule":{"byday":["MO","TU","WE","TH","FR"],"until":"2022/4/1","freq":"WEEKLY"},"location":""}],"instructor":"C. Grace"}}

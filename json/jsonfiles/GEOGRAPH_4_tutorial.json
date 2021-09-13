@@ -1,1 +1,1 @@
-{"11002":{"subject":"GEOGRAPH","name":"4460G","type":"TUT","schedule":[{"start":"2022/1/4 8:30 PM","end":"2022/1/4 9:30 PM","rrule":{"byday":["TU"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"UCC-41","instructor":""}}
+{"11002":{"subject":"GEOGRAPH","name":"4460G","type":"TUT","schedule":[{"start":"2022/1/4 8:30 PM","end":"2022/1/4 9:30 PM","rrule":{"byday":["TU"],"until":"2022/4/1","freq":"WEEKLY"},"location":"UCC-41"}],"instructor":""}}

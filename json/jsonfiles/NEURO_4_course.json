@@ -1,1 +1,1 @@
-{"5986":{"subject":"NEURO","name":"4000E","type":"LEC","schedule":[{"start":"2021/9/10 1:30 PM","end":"2021/9/10 4:30 PM","rrule":{"byday":["FR"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"PAB-117","instructor":"J. Grahn<br>"}}
+{"5986":{"subject":"NEURO","name":"4000E","type":"LEC","schedule":[{"start":"2021/9/10 1:30 PM","end":"2021/9/10 4:30 PM","rrule":{"byday":["FR"],"until":"2022/4/1","freq":"WEEKLY"},"location":"PAB-117"}],"instructor":"J. Grahn"}}

@@ -1,1 +1,1 @@
-{"10333":{"subject":"EARTHSCI","name":"4420A","type":"LAB","schedule":[{"start":"2021/9/8 11:30 AM","end":"2021/9/8 12:30 PM","rrule":{"byday":["WE","FR"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"B&amp;GS-0184","instructor":"R. Shcherbakov<br>"}}
+{"10333":{"subject":"EARTHSCI","name":"4420A","type":"LAB","schedule":[{"start":"2021/9/8 11:30 AM","end":"2021/9/8 12:30 PM","rrule":{"byday":["WE","FR"],"until":"2021/12/8","freq":"WEEKLY"},"location":"B&amp;GS-0184"}],"instructor":"R. Shcherbakov"}}

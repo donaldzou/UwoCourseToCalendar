@@ -1,1 +1,1 @@
-{"6569":{"subject":"MEDHINFO","name":"4980E","type":"LEC","schedule":[{"start":"2021/9/8 11:30 AM","end":"2021/9/8 2:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"","instructor":"C. Castellani<br>P. Shooshtari<br>"}}
+{"6569":{"subject":"MEDHINFO","name":"4980E","type":"LEC","schedule":[{"start":"2021/9/8 11:30 AM","end":"2021/9/8 2:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"},"location":""}],"instructor":"C. CastellaniP. Shooshtari"}}

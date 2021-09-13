@@ -1,1 +1,1 @@
-{"5843":{"subject":"EPID","name":"2200B","type":"TUT","schedule":[{"start":"2022/1/6 11:30 AM","end":"2022/1/6 12:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"NCB-113","instructor":"N. Klar<br>"}}
+{"5843":{"subject":"EPID","name":"2200B","type":"TUT","schedule":[{"start":"2022/1/6 11:30 AM","end":"2022/1/6 12:30 PM","rrule":{"byday":["TH"],"until":"2022/4/1","freq":"WEEKLY"},"location":"NCB-113"}],"instructor":"N. Klar"}}

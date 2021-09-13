@@ -1,1 +1,1 @@
-{"8663":{"subject":"COMMSCI","name":"3317A","type":"LEC","schedule":[{"start":"2021/9/13 1:30 PM","end":"2021/9/13 2:30 PM","rrule":{"byday":["MO","WE"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"","instructor":"D. Purcell<br>"}}
+{"8663":{"subject":"COMMSCI","name":"3317A","type":"LEC","schedule":[{"start":"2021/9/13 1:30 PM","end":"2021/9/13 2:30 PM","rrule":{"byday":["MO","WE"],"until":"2021/12/8","freq":"WEEKLY"},"location":""}],"instructor":"D. Purcell"}}

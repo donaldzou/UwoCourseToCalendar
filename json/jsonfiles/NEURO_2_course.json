@@ -1,1 +1,1 @@
-{"5419":{"subject":"NEURO","name":"2000","type":"LEC","schedule":[{"start":"2021/9/8 9:30 AM","end":"2021/9/8 11:30 AM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"MSB-M384","instructor":"D. Mitchell<br>"}}
+{"5419":{"subject":"NEURO","name":"2000","type":"LEC","schedule":[{"start":"2021/9/8 9:30 AM","end":"2021/9/8 11:30 AM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"},"location":"MSB-M384"}],"instructor":"D. Mitchell"}}

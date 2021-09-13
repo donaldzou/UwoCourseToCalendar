@@ -1,1 +1,1 @@
-{"12403":{"subject":"IE","name":"4499","type":"LEC","schedule":[{"start":"2021/9/13 7:00 PM","end":"2021/9/13 10:00 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"ACEB-1450","instructor":""}}
+{"12403":{"subject":"IE","name":"4499","type":"LEC","schedule":[{"start":"2021/9/13 7:00 PM","end":"2021/9/13 10:00 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"},"location":"ACEB-1450"}],"instructor":""}}

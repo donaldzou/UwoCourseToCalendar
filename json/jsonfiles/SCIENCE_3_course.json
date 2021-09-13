@@ -1,1 +1,1 @@
-{"6535":{"subject":"SCIENCE","name":"3377B","type":"LEC","schedule":[{"start":"2022/1/5 7:00 PM","end":"2022/1/5 10:00 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"MC-110","instructor":""}}
+{"6535":{"subject":"SCIENCE","name":"3377B","type":"LEC","schedule":[{"start":"2022/1/5 7:00 PM","end":"2022/1/5 10:00 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"},"location":"MC-110"}],"instructor":""}}

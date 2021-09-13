@@ -1,1 +1,1 @@
-{"12541":{"subject":"FILM","name":"3368F","type":"TUT","schedule":[{"start":"2021/9/10 12:30 PM","end":"2021/9/10 3:30 PM","rrule":{"byday":["FR"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"VAC-135","instructor":"G. De Souza<br>"}}
+{"12541":{"subject":"FILM","name":"3368F","type":"TUT","schedule":[{"start":"2021/9/10 12:30 PM","end":"2021/9/10 3:30 PM","rrule":{"byday":["FR"],"until":"2021/12/8","freq":"WEEKLY"},"location":"VAC-135"}],"instructor":"G. De Souza"}}

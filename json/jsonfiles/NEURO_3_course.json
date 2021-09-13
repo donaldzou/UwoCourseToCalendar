@@ -1,1 +1,1 @@
-{"5597":{"subject":"NEURO","name":"3000G","type":"LEC","schedule":[{"start":"2022/1/5 12:30 PM","end":"2022/1/5 3:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"VAC-100","instructor":"T. Bussey<br>"}}
+{"5597":{"subject":"NEURO","name":"3000G","type":"LEC","schedule":[{"start":"2022/1/5 12:30 PM","end":"2022/1/5 3:30 PM","rrule":{"byday":["WE"],"until":"2022/4/1","freq":"WEEKLY"},"location":"VAC-100"}],"instructor":"T. Bussey"}}

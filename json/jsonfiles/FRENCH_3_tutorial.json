@@ -1,1 +1,1 @@
-{"1246":{"subject":"FRENCH","name":"3900","type":"TUT","schedule":[{"start":"2021/9/14 2:30 PM","end":"2021/9/14 3:30 PM","rrule":{"byday":["TU"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"KC-W148","instructor":"C. Mccarron<br>K. Fanni<br>"}}
+{"1246":{"subject":"FRENCH","name":"3900","type":"TUT","schedule":[{"start":"2021/9/14 2:30 PM","end":"2021/9/14 3:30 PM","rrule":{"byday":["TU"],"until":"2022/4/1","freq":"WEEKLY"},"location":"KC-W148"}],"instructor":"C. MccarronK. Fanni"}}

@@ -1,1 +1,1 @@
-{"5319":{"subject":"STATS","name":"1023A","type":"LAB","schedule":[{"start":"2021/9/14 1:30 PM","end":"2021/9/14 3:30 PM","rrule":{"byday":["TU"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"WSC-55","instructor":"M. Raaymakers<br>"}}
+{"5319":{"subject":"STATS","name":"1023A","type":"LAB","schedule":[{"start":"2021/9/14 1:30 PM","end":"2021/9/14 3:30 PM","rrule":{"byday":["TU"],"until":"2021/12/8","freq":"WEEKLY"},"location":"WSC-55"}],"instructor":"M. Raaymakers"}}

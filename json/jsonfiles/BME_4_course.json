@@ -1,1 +1,1 @@
-{"10211":{"subject":"BME","name":"4400","type":"LEC","schedule":[{"start":"2021/9/13","end":"2021/9/13","rrule":{"byday":["MO","TU","WE","TH","FR"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"","instructor":"L. Ferreira<br>E. Lalone<br>"}}
+{"10211":{"subject":"BME","name":"4400","type":"LEC","schedule":[{"start":"2021/9/13","end":"2021/9/13","rrule":{"byday":["MO","TU","WE","TH","FR"],"until":"2022/4/1","freq":"WEEKLY"},"location":""}],"instructor":"L. FerreiraE. Lalone"}}

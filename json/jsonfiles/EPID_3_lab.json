@@ -1,1 +1,1 @@
-{"3211":{"subject":"EPID","name":"3200A","type":"LAB","schedule":[{"start":"2021/9/10 9:30 AM","end":"2021/9/10 10:30 AM","rrule":{"byday":["FR"],"until":"2021/12/8","freq":"WEEKLY"}}],"location":"NCB-293","instructor":"I. Karp<br>"}}
+{"3211":{"subject":"EPID","name":"3200A","type":"LAB","schedule":[{"start":"2021/9/10 9:30 AM","end":"2021/9/10 10:30 AM","rrule":{"byday":["FR"],"until":"2021/12/8","freq":"WEEKLY"},"location":"NCB-293"}],"instructor":"I. Karp"}}

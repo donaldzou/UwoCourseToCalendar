@@ -1,1 +1,1 @@
-{"11906":{"subject":"PATHOL","name":"3700G","type":"TUT","schedule":[{"start":"2022/1/3 2:30 PM","end":"2022/1/3 4:30 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"UCC-67","instructor":"K. Singh<br>M. Duennwald<br>"}}
+{"11906":{"subject":"PATHOL","name":"3700G","type":"TUT","schedule":[{"start":"2022/1/3 2:30 PM","end":"2022/1/3 4:30 PM","rrule":{"byday":["MO"],"until":"2022/4/1","freq":"WEEKLY"},"location":"UCC-67"}],"instructor":"K. SinghM. Duennwald"}}

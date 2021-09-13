@@ -1,1 +1,1 @@
-{"5436":{"subject":"HEALTSCI","name":"3801B","type":"LAB","schedule":[{"start":"2022/1/7 8:30 AM","end":"2022/1/7 9:30 AM","rrule":{"byday":["FR"],"until":"2022/4/1","freq":"WEEKLY"}}],"location":"NCB-101","instructor":""}}
+{"5436":{"subject":"HEALTSCI","name":"3801B","type":"LAB","schedule":[{"start":"2022/1/7 8:30 AM","end":"2022/1/7 9:30 AM","rrule":{"byday":["FR"],"until":"2022/4/1","freq":"WEEKLY"},"location":"NCB-101"}],"instructor":""}}
