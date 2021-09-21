@@ -5,7 +5,7 @@ total = {}
 
 
 jsonfiles = os.listdir('jsonfiles')
-# os.remove('merge.json')
+#os.remove('merge.json')
 
 for i in jsonfiles:
     if i.endswith('.json'):
@@ -13,6 +13,8 @@ for i in jsonfiles:
             print(i)
             data = json.load(json_file)
             for key in data.keys():
+                if key == "4098":
+                    print('dup')
                 if key in total.keys():
                     print("Existed - "+key)
                     exit()
